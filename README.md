@@ -13,8 +13,7 @@ This project focuses on extracting entities and their relationships from text fo
 To run the project, you will need to install the following dependencies:
 
 - Python 3.x
-- Install dependencies using the `requirements.txt` file:
-
+- Install dependencies using the `requirements.txt` file. In your terminal or command prompt, navigate to your project folder and run the following command:
 ```
 pip install -r requirements.txt
 ```
